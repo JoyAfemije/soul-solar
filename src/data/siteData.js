@@ -9,11 +9,11 @@ export const business = {
   shortName: "Soul Solar",
   location: "Ibadan, Oyo State, Nigeria",
   serviceArea: "Serving customers across Nigeria",
-  phone: "08109139733",
-  phoneHref: "tel:08109139733",
-  whatsappDisplay: "09014109822",
-  whatsappNumber: "2349014109822", // Nigerian international format
-  whatsappHref: "https://wa.me/2349014109822",
+  phone: "09014109822",
+  phoneHref: "tel:09014109822",
+  whatsappDisplay: "08109139733",
+  whatsappNumber: "2348109139733", // Nigerian international format
+  whatsappHref: "https://wa.me/2348109139733",
 };
 
 export const navLinks = [
